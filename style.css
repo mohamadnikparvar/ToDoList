@@ -129,3 +129,12 @@
    cursor: pointer;
    pointer-events: none;
  }
+
+ @media (max-width:530px){
+  .todo-input{
+     width:150px;
+   }
+   .select{
+     width:100px
+   }
+ }
